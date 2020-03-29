@@ -1,0 +1,37 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+
+html,body{
+	height: 100%;
+}
+
+body{
+	display: table;
+	margin: 0 auto;
+}
+
+div{
+	display: table-cell;
+	width: 740px;
+	vertical-align: middle;
+}
+
+li{
+	cursor: pointer;
+	list-style: none;
+}
+
+.left{
+	width: 120px;
+	border-radius: 5px;
+}
+
+#placeholder{
+	float: right;
+	width: 610px;
+	border-radius: 8px;
+}
+
+
